@@ -5,6 +5,7 @@ In this project I have utilized SQL query to solve questions that were related t
 ## Screenshots of dashboard
 
 ![App Screenshot](https://github.com/navajis07/SQL-case-study-on-pizza-sales/blob/main/screenshot/Screenshot_20240421_001323.png?raw=true)
+
 ![App Screenshot](https://github.com/navajis07/SQL-case-study-on-pizza-sales/blob/main/screenshot/Screenshot_20240517_000253.png?raw=true)
 ## 🚀 About Me
 I'm a full stack data scientist...
