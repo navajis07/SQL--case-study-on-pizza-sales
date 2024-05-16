@@ -4,8 +4,8 @@ In this project I have utilized SQL query to solve questions that were related t
 
 ## Screenshots of dashboard
 
-![App Screenshot](https://github.com/navajis07/Unicorn_company_data_analysis_dashboard_powerbi/blob/main/Screenshot_20240330_132148.png?raw=true)
-
+![App Screenshot](https://github.com/navajis07/SQL-case-study-on-pizza-sales/blob/main/screenshot/Screenshot_20240421_001323.png?raw=true)
+![App Screenshot](https://github.com/navajis07/SQL-case-study-on-pizza-sales/blob/main/screenshot/Screenshot_20240517_000253.png?raw=true)
 ## 🚀 About Me
 I'm a full stack data scientist...
 
